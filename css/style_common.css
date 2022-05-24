@@ -1,0 +1,69 @@
+.color_dark_green {
+	background-color: #032114;}
+.color_main_green {
+	background-color: #044228;}
+.color_light_green {
+	background-color: #366437;}
+.color_text_green {
+	background-color: #156543;}
+
+.width_100_per {
+	width: 100%;}
+.width_90_per {
+	width: 90%;}
+.width_80_per {
+	width: 80%;}
+.width_70_per {
+	width: 70%;}
+.width_60_per {
+	width: 60%;}
+.width_50_per {
+	width: 50%;}
+.width_45_per {
+	width: 45%;}
+.width_40_per {
+	width: 40%;}
+.width_30_per {
+	width: 30%;}
+.width_20_per {
+	width: 20%;}
+.width_10_per {
+	width: 10%;}
+.width_5per {
+	width: 5%;}
+
+.width_2_em {
+	width: 2em;}
+.width_4_em {
+	width: 4em;}
+.width_8_em {
+	width: 8em;}
+.width_16_em {
+	width: 16em;}
+.width_32_em {
+	width: 32em;}
+	
+
+.align_center {
+	margin-right: auto;
+	margin-left: auto;}
+.align_left {
+	float: left;}
+
+.background_full_image {
+	background-repeat: no-repeat;
+   	background-size: contain;}
+
+.test {
+	border: solid 1px #FFFFFF;
+	box-sizing: border-box;}
+
+body {
+	font-family: arial;}
+	
+	.bg {
+		height: 1200px;}
+		
+		.top_bar {
+			height: 100px;}
+		

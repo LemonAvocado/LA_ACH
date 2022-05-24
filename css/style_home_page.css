@@ -1,0 +1,81 @@
+body {}
+
+	.bg {}
+		
+		#logo {
+			height: 200px;
+			width: 340px;
+			position: relative;
+			top: 100px;
+			background-image: url("../image/home_page/dna_logo.png");
+			z-index: 10;}
+
+		#summary {
+			height: 150px;
+			width: 1000px;
+			position: relative;
+			top: 72px;}
+			
+			#blank {
+				height: 50px;}
+			
+			#summary_context {
+				height: auto;
+				line-height: 1.5em;
+				color: #FFFFFF;
+				padding-left: 20px;
+				border-left: 1px solid #FFFFFF;}
+		
+		#quota {
+			height: 200px;
+			width: 1000px;			
+			position: relative;
+			top: 72px;
+			background-color: rgba(255,255,255,0.3);}
+			
+			#pic_1 {
+				height: 200px;
+				background-image: url("../image/home_page/pic_1.jpg");}
+
+			#pic_2 {
+				height: 200px;
+				background-image: url("../image/home_page/pic_2.jpg");}
+
+			#pic_3 {
+				height: 200px;
+				background-image: url("../image/home_page/pic_3.jpg");}
+
+			#number {
+				height: 200px;}
+				
+				p#number {
+					margin: 50px;
+					height: auto;
+					color: #3EB784;
+					font-weight: bold;
+					font-size: 400%;}
+		#buttons_bg {
+			height: 270px;
+			width: 750px;
+			position: relative;
+			top: 100px;
+			background-image: url("../image/home_page/dna.png");}
+		#buttons {
+			height: 270px;
+			width: 1000px;
+			position: relative;
+			top: -170px;}
+			
+			.button {
+				height: 270px;
+				width: 250px;}
+				
+				.button_context {
+					margin: 50px;
+					height: 150px;
+					width: 150px;
+					text-align: center;
+					border-radius: 75px;
+					color: #3EB784;
+					font-weight: bold;
+					font-size: 200%;}

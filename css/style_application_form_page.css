@@ -1,0 +1,92 @@
+body {}
+
+	.bg {
+		height: auto;}
+		
+		#top_bar_area1 {
+			height: 100px;
+			float: left;}
+			#top_bar_area2{
+				height: 100px;
+				margin-left: 5%;}
+				#top_bar_area_home {
+					width: 60px;
+					height: 60px;
+					position: relative;
+					top: 30px;
+					padding: 20px;
+					background-color: #7ed444;
+					background-image: url("../image/icons/icon_home.png");}
+		#top_bar_area3 {
+			height: 100px;
+			width: 16%;
+			float: left;}
+			.top_bar_area_logo {
+				height: 60px;
+				width: 60px;
+				float: right;
+				margin-top: 40px;}
+			#logo_1 {
+				background-image: url("../image/icons/icon_language.png");}
+			#logo_2 {
+				background-image: url("../image/icons/icon_weibo.png");}
+			#logo_3 {
+				background-image: url("../image/icons/icon_account.png");}
+				
+		#form_title {
+			margin-top: 30px;
+			margin-bottom: 50px;
+			color: #FFFFFF;
+			text-align: center;
+			font-size: 150%;
+			border-bottom: 3px solid #7ed444;}
+			
+		.form_item {
+			height: auto;
+			margin-top: 50px;}
+			
+			p.form_context {
+				margin-left: 10px;}
+			
+			.form_item_title {
+				margin-top: 2em;
+				color: #FFFFFF;
+				float: left;
+				border-left: 2px solid #7ed444;}
+			
+			.form_item_name {
+				background-color: #CCCCCC;
+				border: 1px solid #b5dab0;
+				box-sizing: border-box;
+				color: #044228;
+				float: left;}
+				
+			.form_item_value {
+				height: auto;
+				background-color: #A7A7A7;
+				border: 1px solid #b5dab0;
+				box-sizing: border-box;
+				color: #044228;
+				float: left;
+				padding-top: 1em;
+				padding-bottom: 1em;}
+				
+				.form_sub_item_left {
+					float: left;
+					text-align: center;
+					height: 1.5em;}
+				.form_sub_item_right {
+					float: left;
+					height: 1.5em;}				
+				textarea {
+					border: 0px;
+					font-size: 100%;
+					height: 4em;
+					margin-left: 5%;}
+				.form_radio {
+					font-size: 120%;}
+				.form_checkbox {
+					margin-left: 10px;
+					margin-right: 10px;
+					font-size: 120%;}
+				

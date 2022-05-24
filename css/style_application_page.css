@@ -1,0 +1,78 @@
+body {}
+
+	.bg {}
+		#top_bar_area1 {
+			height: 100px;
+			float: left;}
+			#top_bar_area2{
+				height: 100px;
+				margin-left: 5%;}
+				#top_bar_area_home {
+					width: 60px;
+					height: 60px;
+					position: relative;
+					top: 30px;
+					padding: 20px;
+					background-color: #7ed444;
+					background-image: url("../image/icons/icon_home.png");}
+		#top_bar_area3 {
+			height: 100px;
+			width: 16%;
+			float: left;}
+			.top_bar_area_logo {
+				height: 60px;
+				width: 60px;
+				float: right;
+				margin-top: 40px;}
+			#logo_1 {
+				background-image: url("../image/icons/icon_language.png");}
+			#logo_2 {
+				background-image: url("../image/icons/icon_weibo.png");}
+			#logo_3 {
+				background-image: url("../image/icons/icon_account.png");}
+				
+		#page_logo{
+			height: auto;
+			padding-top: 50px;
+			width: 250px;}
+			
+		#application_select_title {
+			margin-top: 50px;
+			text-align: center;
+			font-size: 200%;
+			color: white;}
+			
+		#application_select_1,#application_select_2 {
+			height: 300px;
+			float: left;}
+			
+			.application_select_area {
+				width: 600px;
+				height: 300px;}
+				
+				#application_diagnose {
+					border: 5px solid #286832;
+					float: right;
+					margin-right: 20px;
+					background-image: url("../image/application_page/bg_diagnose.png");}
+				#application_treatment {
+					border: 5px solid #286832;
+					float: left;
+					margin-left: 20px;
+					background-image: url("../image/application_page/bg_treatment.png");}
+				
+					.application_color_bar {
+						height: 100px;
+						margin-top: 100px;	
+						background-color: rgba(126,212,68,0.6);
+						text-align: center;
+						font-size: 400%;
+						color: #FFFFFF;
+						font-weight: bold;}
+		#application_agreement {
+			border: solid 2px #7ed444;
+			box-sizing: border-box;
+			width: 1260px;
+			height: 50px;
+			margin-top: 400px;}
+						

@@ -1,0 +1,113 @@
+body {}
+
+	.bg {}
+		#top_bar_area1 {
+			height: 100px;
+			float: left;}
+			#top_bar_area2{
+				height: 100px;
+				margin-left: 5%;}
+				#top_bar_area_home {
+					width: 60px;
+					height: 60px;
+					position: relative;
+					top: 30px;
+					padding: 20px;
+					background-color: #7ed444;
+					background-image: url("../image/icons/icon_home.png");}
+		#top_bar_area3 {
+			height: 100px;
+			width: 16%;
+			float: left;}
+			.top_bar_area_logo {
+				height: 60px;
+				width: 60px;
+				float: right;
+				margin-top: 40px;}
+			#logo_1 {
+				background-image: url("../image/icons/icon_language.png");}
+			#logo_2 {
+				background-image: url("../image/icons/icon_weibo.png");}
+			#logo_3 {
+				background-image: url("../image/icons/icon_account.png");}
+						
+		#project {
+			height: 1000px;
+			float: left;
+			color: #b5dab0;}
+		
+			#project_target {
+				height: 150px;
+				float: left;
+				margin-left: 5%;
+				margin-top: 50px;}
+				
+				h2 {
+					color: #FFFFFF;}
+					
+				ul#project_target_list {
+					font-size: 120%;}
+				
+			#project_coverage {
+				height: 700px;
+				float: left;
+				margin-left: 5%;
+				margin-top: 50px;}
+				
+				table.coverage {
+					text-align: left;
+					border-collapse: collapse;
+					border-left: solid 20px #7ed444;
+					border-right: solid 10px #7ed444;
+					border-bottom: solid 1px #b5dab0;}
+				
+					caption {
+						border-top: solid 1px #b5dab0;
+						border-left: solid 20px #7ed444;
+						border-right: solid 10px #7ed444;
+						background-color: #286832;
+						font-size: 150%;}
+						
+					th,td {
+						border-left: solid 1px rgba(255,255,255,0.2);
+						padding-left: 20px;}
+					th {
+						border-top: solid 1px #b5dab0;
+						background-color: #4e7634;
+						font-size: 120%;
+						color: #032114;}
+					td {
+						padding-bottom: 20px;
+						padding-top: 20px;}
+					td.coverage_condition {
+						width: 50%;}
+					td.coverage_item {
+						width: 50%;}
+		
+		#link {
+			height: 1000px;
+			float: left;
+			color: #b5dab0;}
+			
+			#link_logo {
+				height: 150px;
+				float: left;
+				margin-top: 50px;
+				background-image: url("../image/logos/dna_logo.png");}
+			#link_links {
+				height: 700px;
+				float: left;
+				margin-top: 50px;
+				background-color: #286832;}
+				
+				a {
+					font-size: 120%;}
+				a:link {
+					color: #b5dab0; 
+					text-decoration: none;}
+				a:hover {
+					color: #FFFFFF; 
+					text-decoration: none;}
+				a:visited {
+					color: #b5dab0; 
+					text-decoration: none;}
